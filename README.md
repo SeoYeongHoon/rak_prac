@@ -1,1 +1,1 @@
-# rak_prac
+# this is first Mac PC's git practice
